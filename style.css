@@ -59,11 +59,16 @@ nav{
     color: #CCC;
 }
 
+.navbar-items .other-links:hover {
+    border-bottom: 4px solid #2CC76A;
+}
+
 .default-btn {
     padding: 15px 20px;
     background-color: #2CC76A;
     border-radius: 5px;
     color: #fff;
+    font-weight: 500;
 }
 
 .default-btn:hover {
